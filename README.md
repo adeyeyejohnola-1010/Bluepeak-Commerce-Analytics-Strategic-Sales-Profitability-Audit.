@@ -115,6 +115,7 @@ Retaining top customers can stabilize revenue
 Upselling mid-tier customers can unlock additional growth 
 
 Overall, my analysis provides a clear roadmap for:
+
 Increasing revenue 
 
 Improving profitability 
