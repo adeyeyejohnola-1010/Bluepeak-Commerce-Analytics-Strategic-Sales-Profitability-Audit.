@@ -9,11 +9,12 @@ My goal was not just to visualize data, but to identify growth opportunities, in
 **Story of Data**
 
 I worked with a transactional retail dataset containing:
-Sales and profit 	
-Customer activity 
-Product categories and sub-categories 
-Regional and state-level performance 
-Discount and quantity metrics 
+Sales and profit 	,
+Customer activity, 
+Product categories and sub-categories, 
+Regional and state-level performance, 
+Discount and quantity metrics ,
+
 I approached this dataset from a decision-making perspective, asking:
 Where is the business making money, and where is it losing opportunities?
 
@@ -21,21 +22,34 @@ Where is the business making money, and where is it losing opportunities?
 
 To ensure accuracy, I:
 Cleaned and standardized the dataset 
+
 Handled inconsistencies in categorical fields 
+
 Created key calculated metrics: 
+
 .Total Sales 
+
 .Profit 
+
+
 .Discount impact 
+
 .Aggregated data across time, region, and customer segments 
+
 This step allowed me to build a reliable foundation for analysis.
 
  **Pre Analysis**
  
 During my initial exploration, I focused on identifying patterns and defining key questions:
+
 . Which regions drive the most revenue? 
+
 . Which categories are most profitable? 
+
 . How do discounts influence sales performance? 
+
 . What trends exist over time? 
+
 This helped me structure my dashboard and analysis approach.
 
 **Inanalysis observation and insights**
