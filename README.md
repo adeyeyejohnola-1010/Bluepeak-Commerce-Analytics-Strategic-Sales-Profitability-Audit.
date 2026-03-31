@@ -66,16 +66,20 @@ I found that the West region is the strongest revenue driver, while the South re
 
 I identified Technology as the dominant category, contributing the highest share of both sales and profit.
 
+
 **Customer Impact**
 
 I observed that a small group of top customers contributes a significant portion of revenue, indicating moderate customer concentration.
+
 
 **Discount Analysis**
 
 <img width="416" height="212" alt="dashboard 4" src="https://github.com/user-attachments/assets/127cc99e-8a12-47a0-8ec6-db4f491fdf28" />
 
 One of my most critical findings:
+
 Discounts do not consistently drive higher sales
+
 Deep discounts reduce profitability without proportional revenue gain
 
 **Sales Trend**
@@ -84,27 +88,39 @@ Deep discounts reduce profitability without proportional revenue gain
 
 I discovered strong seasonality:
 Peak sales occur in Q4 (especially November) 
+
 Early-year months show weaker performance 
 
 **Post Analysis and Insights**
 
 After consolidating my findings, I concluded that:
 Revenue is heavily concentrated in a few regions and states 
+
 Sales performance is seasonal rather than consistent 
-Discount strategies are inefficient 
+
+Discount strategies are inefficient
+
 A small number of categories drive most of the revenue 
+
 These insights reveal both strengths to scale and risks to mitigate.
 
 **Data Visualization and Charts**
 
 To communicate insights effectively, I built an interactive dashboard featuring:
 KPI cards (Sales, Profit, Quantity Sold) 
+
 Regional performance breakdown 
+
 Customer contribution analysis 
+
 Category profitability comparison 
+
 Discount vs sales relationship (scatter plot) 
+
 Monthly sales trend visualization 
+
 My focus was to make insights clear, actionable, and decision-ready.
+
 **Business Impact**
 
 Based on my analysis, I identified several opportunities that could directly impact business performance:
@@ -112,20 +128,24 @@ Based on my analysis, I identified several opportunities that could directly imp
 **Cost & Profit Optimization**
 
 Reducing excessive discounting could significantly improve profit margins 
+
 Focusing on value-based pricing instead of aggressive promotions 
 
 **Revenue Growth Opportunities**
 
 Expanding operations in underperforming regions (South & Central) 
+
 Leveraging high-performing regions (West & East) as growth benchmarks 
 
 **Strategic Decision-Making**
 
 Identifying Technology as a core revenue driver enables better investment focus 
+
 Aligning inventory and marketing with seasonal demand (Q4 peak) 
 
 **Customer Strategy Impact**
 Retaining top customers can stabilize revenue 
+
 Upselling mid-tier customers can unlock additional growth 
 
 Overall, my analysis provides a clear roadmap for:
