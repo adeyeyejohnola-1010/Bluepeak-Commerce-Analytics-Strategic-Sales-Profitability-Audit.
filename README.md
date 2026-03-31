@@ -111,28 +111,38 @@ Identifying Technology as a core revenue driver enables better investment focus
 Aligning inventory and marketing with seasonal demand (Q4 peak) 
 
 **Customer Strategy Impact**
-
 Retaining top customers can stabilize revenue 
 Upselling mid-tier customers can unlock additional growth 
+
 Overall, my analysis provides a clear roadmap for:
 Increasing revenue 
+
 Improving profitability 
-Reducing operational inefficiencies 
+
+Reducing operational inefficiencies
+
 Recommendation and Observation
 
 **Observations**
 
 I observed a strong regional imbalance in performance 
+
 I identified over-reliance on key states like California and New York 
+
 I found that discounting is often misused 
 
 **Recommendations**
 
 Based on my findings, I recommend:
+
 Expanding into underperforming regions with targeted strategies 
+
 Optimizing discount usage (focus on moderate, strategic discounts) 
+
 Investing more in high-performing categories like Technology 
+
 Strengthening customer retention and loyalty programs 
+
 Aligning business strategies with seasonal sales patterns 
 
 **Conclusion**
